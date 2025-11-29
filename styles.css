@@ -1,0 +1,178 @@
+body{
+    font-family:"Segoe UI",sans-serif;
+    background-color: dimgray;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    color:floralwhite;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+h2{
+    text-align: left;
+}
+
+p{
+    font-weight: bold;
+}
+
+header{
+    background-color: rgba(191, 187, 187, 0.7);
+    border: none;
+    padding: 1px 2px;
+
+}
+
+#www-image-id {
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.Wrapper-www{
+    margin-top: 20px;
+    background-color: rgba(253, 253, 253, 0.2);
+    border-radius: 20px;
+    margin-left:  auto;
+
+    width: 850px;
+    height: 240px;
+    margin-right: 12px;
+
+
+}
+
+.WWW-container{
+    display:flex;
+    padding: 20px;
+    align-items: flex-start;
+
+}
+
+/********************************************************************************************************/
+
+.html-img-id{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.html-container{
+    border-radius: 20px;
+    background-color: rgba(253, 253, 253, 0.2);
+    margin-right: auto;
+    margin-left: 10px;
+    height: 261px;
+
+}
+
+.html-class{
+    display:flex;
+    padding: 20px;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+}
+
+/*************************************************************************************************************/
+
+.source-code-img-container{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#html-output-screenshot{
+    margin-top: 20px;
+    background-color: rgba(253, 253, 253, 0.2);
+    border-radius: 20px;
+    margin-left:  auto;
+
+}
+
+.html-code-output{
+    display:flex;
+    padding: 20px;
+    align-items: flex-start;
+   gap: 70px;
+}
+
+
+
+/******************************************************************************************************/
+
+
+.CSS-info{
+    border-radius: 20px;
+    background-color: rgba(253, 253, 253, 0.2);
+    margin-right: auto;
+    margin-left: 10px;
+    margin-top:10px;
+    height: 196px;
+
+}
+
+.CSS{
+    display:flex;
+    padding: 20px;
+    align-items: flex-end;
+    flex-direction: row-reverse;
+}
+
+.CSS-screenshot{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+/***********************************************************************************************************/
+
+
+
+
+.founder-card-tim-stacked {
+
+    margin: 40px auto;
+    width: 650px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgba(0, 50, 100, 0.4);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+
+.founder-card-hakon-stacked {
+
+    margin: 40px auto;
+    width: 650px;
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgba(253, 253, 253, 0.2);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+    text-align: center;
+}
+
+
+#Tim-image, #Hakon-img {
+    display: block;
+    margin: 0 auto 20px auto;
+    border-radius: 50%;
+}
+
+
+#Tim-section, #Hakon-section {
+    background-color: transparent;
+    text-align: left;
+}
+
+
+
